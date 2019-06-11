@@ -5,3 +5,4 @@
 - [Option<T>](video-019/src/main.rs)
 - [Arrays](video-020/src/main.rs)
 - [Generics](video-026/src/main.rs)
+- [Function](video-027/src/main.rs)
