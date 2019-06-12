@@ -7,3 +7,4 @@
 - [Generics](video-026/src/main.rs)
 - [Function](video-027/src/main.rs)
 - [Methods](video-028/src/main.rs)
+- [Closures](video-029/src/main.rs)
