@@ -12,3 +12,4 @@
 - [Closures](video-029/src/main.rs)
 - [Traits](video-030/src/main.rs)
 - [Operator Overloading](video-031/src/main.rs)
+- [Static Dispatch](video-032/src/main.rs)
