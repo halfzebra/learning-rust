@@ -4,6 +4,7 @@
 - [Unions](video-017/src/main.rs)
 - [Option<T>](video-018/src/main.rs)
 - [Arrays](video-019/src/main.rs)
+- [Vectors](video-020/src/main.rs)
 - [Strings](video-022/src/main.rs)
 - [Generics](video-026/src/main.rs)
 - [Function](video-027/src/main.rs)
