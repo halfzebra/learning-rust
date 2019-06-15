@@ -1,21 +1,19 @@
-union IntOrFloat {
-    i: i32,
-    f: f32
-}
-
 fn main() {
-    let mut iof = IntOrFloat{ i: 123 };
-    unsafe
-    {
-        println!("unsafe union access {} ", iof.i);
-    }
+    let x = 3.0;
+    let y = 2.0;
 
-    unsafe
+    let result: Option<f64> =
+        if y != 0.0 { Some(x/y) } else { None };
+
+    // As expression.
+    let with_default = match result
     {
-        match iof
-        {
-            IntOrFloat { i } => println!("int {}", i),
-            IntOrFloat { f } => println!("float {}", f),
-        }
-    }
+        Some(v) => v, 
+        _ => 0.0,
+    };
+
+    println!("{}", with_default);
+
+    // {:?} marker prints the debug output.
+    println!("Hello, world! {:?}", result);
 }
