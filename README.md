@@ -11,3 +11,4 @@
 - [Methods](video-028/src/main.rs)
 - [Closures](video-029/src/main.rs)
 - [Traits](video-030/src/main.rs)
+- [Operator Overloading](video-031/src/main.rs)
