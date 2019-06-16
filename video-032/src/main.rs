@@ -24,7 +24,7 @@ fn print_value<T: Printable>(v: T)
 {
     println!("{}", v.format())
 }
-
+// static dispatch preforms the lookup of corresponding implementation at compile time.
 fn main() {
     println!("{}", 32.format());
     println!("{}", String::from("hello!").format());
