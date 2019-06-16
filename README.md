@@ -13,3 +13,5 @@
 - [Traits](video-030/src/main.rs)
 - [Operator Overloading](video-031/src/main.rs)
 - [Static Dispatch](video-032/src/main.rs)
+- [Dynamic Dispatch p.1](video-033/src/main.rs)
+- [Dynamic Dispatch p.2](video-034/src/main.rs)
