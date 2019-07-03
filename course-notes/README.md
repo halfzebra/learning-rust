@@ -1,4 +1,11 @@
-# Rust Course Code
+# Rust Course Notes
+
+## Takeaways
+
+I do not recomment reaning Rust with this course as it is too short and lacks exercises.
+I've gotten a very basic overview of the main features of the language, which is good enough for the money.
+
+## Contents
 
 - [Enums](video-016/src/main.rs)
 - [Unions](video-017/src/main.rs)
