@@ -9,3 +9,4 @@ The contents of my notes are presented in chronological order for hitorical reas
 1. [The Rust Programming Language](https://www.udemy.com/rust-lang/) course [notes](/course-notes).
 2. Completed [Rustlings](https://github.com/rust-lang/rustlings) [exercises](/rustlings).
 3. [Minigrep](/minigrep) from [https://doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
+4.  [Closures](/closures) from [https://doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
